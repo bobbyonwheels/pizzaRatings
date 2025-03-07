@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pizza Ratings</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <style>
+            #welcomeParagraph {
+                   width: 804px;
+                   margin-left:10px;
+                   margin-right:10px;
+            }
+        </style>
+    </head>
+    <body>
+        <br>
+        <table>
+            <thead>
+                <tr>
+                    <th> <a href="https://bobbyonwheels.github.io/pizzaRatings/index.html"> Home    
+                        </a> </th>
+                    <th> <a href="https://bobbyonwheels.github.io/pizzaRatings/byRestaurant.html"> Search By Restaurant    
+                        </a> </th>
+                    <th> <a href="https://bobbyonwheels.github.io/pizzaRatings/byPerson.html"> Search By Person    
+                        </a> </th>
+                    <th> <a href="https://bobbyonwheels.github.io/pizzaRatings/byRating.html"> Search By Rating    
+                        </a> </th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <div id="welcomeParagraph">              
+<head>
+    <h1> Here you can search ratings by rating value </h1>
+</head>
+    <p> NOTE: This webpage is still in development </p>
+        </div>
+    </body>
+</html>
